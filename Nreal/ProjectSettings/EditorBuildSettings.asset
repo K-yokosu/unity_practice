@@ -4,5 +4,8 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/NrealAirScene.unity
+    guid: 1203f2af4f3244d2693725aefde6e413
   m_configObjects: {}
